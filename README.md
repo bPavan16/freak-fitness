@@ -4,11 +4,11 @@ A sleek, responsive gym website UI built with Next.js, focused on delivering a s
 
 ## 🚀 Tech Stack
 
-- **Framework**: [Next.js](https://nextjs.org/) (Configured in [Freak-fitness/next.config.ts](Freak-fitness/next.config.ts))
-- **Language**: [TypeScript](https://www.typescriptlang.org/) (Configured in [Freak-fitness/tsconfig.json](Freak-fitness/tsconfig.json))
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/) & [PostCSS](https://postcss.org/) (Configured in [Freak-fitness/postcss.config.mjs](Freak-fitness/postcss.config.mjs))
-- **UI Components**: [shadcn/ui](https://ui.shadcn.com/) (Initialization at [Freak-fitness/components.json](Freak-fitness/components.json))
-- **Linting**: [ESLint](https://eslint.org/) (Rules in [Freak-fitness/eslint.config.mjs](Freak-fitness/eslint.config.mjs))
+- **Framework**: [Next.js](https://nextjs.org/) 
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) & [PostCSS](https://postcss.org/)
+- **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
+- **Linting**: [ESLint](https://eslint.org/) 
 
 ## 🛠️ Getting Started
 
@@ -40,12 +40,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 - `src/`: Main source code directory.
 - `public/`: Static assets such as images and SVGs.
-- [Freak-fitness/components.json](Freak-fitness/components.json): Configuration for the component library.
-- [Freak-fitness/next.config.ts](Freak-fitness/next.config.ts): Next.js specific configurations.
+- [Freak-fitness/components.json](freak-fitness/components.json): Configuration for the component library.
+- [Freak-fitness/next.config.ts](freak-fitness/next.config.ts): Next.js specific configurations.
 
 ## 📜 Available Scripts
 
-Refer to [Freak-fitness/package.json](Freak-fitness/package.json) for all available scripts:
+Refer to [freak-fitness/package.json](freak-fitness/package.json) for all available scripts:
 
 - `npm run dev`: Runs the app in development mode.
 - `npm run build`: Builds the production application.
@@ -54,4 +54,5 @@ Refer to [Freak-fitness/package.json](Freak-fitness/package.json) for all availa
 
 ## 📄 License
 
-This project is proprietary. Refer to the [Freak-fitness/package.json](Freak-fitness/package.json) for licensing details.
+
+This project is proprietary. Refer to the [Freak-fitness/package.json](freak-fitness/package.json) for licensing details.
